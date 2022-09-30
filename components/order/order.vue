@@ -5,7 +5,7 @@
 				<uni-grid :column="3" :show-border="false" :square="false" @change="change">
 					<uni-grid-item v-for="(item ,index) in type" :index="index" :key="index">
 						<view class="grid-item-box">
-							<image class="image"  mode="aspectFill" />
+						<!-- 	<image class="image"  mode="aspectFill" /> -->
 							<text class="text">{{item.label}}</text>
 						</view>
 					</uni-grid-item>
