@@ -1,0 +1,1 @@
+<view>接单大厅<van-button vue-id="1dd1a928-1" type="warning" data-event-opts="{{[['^click',[['toUserPage']]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">客服链接</van-button></view>

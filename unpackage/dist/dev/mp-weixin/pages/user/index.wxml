@@ -1,0 +1,1 @@
+<view>个人中心<van-button bind:click="__e" vue-id="5c2bbbc2-1" data-event-opts="{{[['^click',[['getName']]]]}}" bind:__l="__l" vue-slots="{{['default']}}">点击获取用户姓名</van-button><text>{{"姓名:"+name}}</text><van-uploader vue-id="5c2bbbc2-2" bind:__l="__l"></van-uploader></view>

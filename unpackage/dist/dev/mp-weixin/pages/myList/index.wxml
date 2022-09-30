@@ -1,0 +1,1 @@
+<view>我的订单<van-button vue-id="5151e460-1" type="warning" data-event-opts="{{[['^click',[['toUserPage']]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">个人中心</van-button></view>

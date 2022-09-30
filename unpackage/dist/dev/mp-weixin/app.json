@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/index",
+    "pages/user/index",
+    "pages/myList/index",
+    "pages/call/index",
+    "pages/orderGoods/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#FFFFFF",
+    "color": "#2c2c2c",
+    "selectedColor": "#d81e06",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/list/index",
+        "text": "订单大厅"
+      },
+      {
+        "pagePath": "pages/myList/index",
+        "text": "我的订单"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
